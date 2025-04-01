@@ -71,4 +71,11 @@ streamlit run frontend/app.py
 ## Contributing
 Feel free to fork this project and submit pull requests with improvements.
 
+Output screen
+![resume_matcher 1](https://github.com/user-attachments/assets/1c87ee5c-1cea-4e66-a3a4-39c56ea39215)
+![resume-matcher2](https://github.com/user-attachments/assets/815419bf-22ce-4f0f-83a4-90b4324386f3)
+
+
+
+
 
